@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Manarpan! 👋
 
 I'm a passionate developer who loves crafting creative solutions with code. Here’s a little bit about me, my tech stack, and where you can find me online.
 
