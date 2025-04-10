@@ -4,7 +4,7 @@ I'm a passionate developer who loves crafting creative solutions with code. Here
 
 ---
 
-## 💁 About Me
+## About Me
 - **Curious & Creative:** I enjoy learning new technologies and experimenting with different ideas.
 - **Developer by Passion:** I thrive on coding challenges and building projects that make an impact.
 - **Lifelong Learner:** Always eager to pick up new skills and grow.
