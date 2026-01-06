@@ -1,16 +1,3 @@
-# Hi there, I'm Manarpan! 👋
-
-I'm a passionate developer who loves crafting creative solutions with code. Here’s a little bit about me, my tech stack, and where you can find me online.
-
----
-
-## About Me
-- **Curious & Creative:** I enjoy learning new technologies and experimenting with different ideas.
-- **Developer by Passion:** I thrive on coding challenges and building projects that make an impact.
-- **Lifelong Learner:** Always eager to pick up new skills and grow.
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
