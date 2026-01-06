@@ -47,8 +47,6 @@
 ## 🌐 Connect with Me
 - [**LinkedIn**](https://www.linkedin.com/in/manarpankaur)
 - [**Instagram**](https://www.instagram.com/manarpankaur/?hl=en)
-- [**Personal Blog/Website**](https://manarpankaur.com)
-
 ---
 
 ## 📫 How to Reach Me
